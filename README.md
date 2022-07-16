@@ -1,4 +1,4 @@
-# Getting Started with Create react-to-do-list
+# Getting Started with react-to-do-list
 
 ## Available Scripts
 
