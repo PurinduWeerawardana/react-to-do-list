@@ -23,7 +23,7 @@ function App() {
         <h1>To-Do List</h1>
       </div>
       <div className="form">
-        <input onChange={handleChange} type="text" value={inputText} />
+        <input onChange={handleChange} type="text" placeholder="Type here" value={inputText} />
         <button onClick={addItem}>
           <span>Add</span>
         </button>
